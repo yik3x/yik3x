@@ -30,7 +30,6 @@
 ## 💬 Socials
 <div> 
   <a href="https://www.twitch.tv/yik3xx" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitch&color=9146FF&logo=Twitch&logoColor=FFFFFF&label=" target="_blank"></a>
-  <a href="https://twitter.com/yik3x" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1D9BF0&logo=Twitter&logoColor=FFFFFF&label="></a>
  	<a href="https://steamcommunity.com/profiles/76561199154553728/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Steam&color=000000&logo=Steam&logoColor=FFFFFF&label="></a>
   <a href="https://open.spotify.com/user/n7mczpf5dahgjl9xhf3axo28t?si=e7b6800490fc40a6" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Spotify&color=1DB954&logo=Spotify&logoColor=FFFFFF&label="></a>
   <a href="https://discord.gg/huuDEZvqQb" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=" target="_blank"></a>
