@@ -1,20 +1,3 @@
-<h2 align="center">
-        <samp>&gt; Hi There, I'm Yik3x
-        </samp>
-</h2>
-
-<p align="center"> 
-  <samp>
-    「 I'm a programming student who likes to do cool projects 」
-    <br>
-    <br>
-  </samp>
-</p>
-
-- My name is Ana. I'm a high school student and I also study programming in my spare time. I like to create bots for Discord, build websites and build things with frameworks
-    - 🔮 Any pronoun
-    - 💬 If you have any questions, just ask me
-
 ## 🖥️ Technologies and Tools
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
